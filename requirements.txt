@@ -6,6 +6,4 @@ matplotlib.pyplot==3.9.2
 plotly.express==4.24.1
 folium==0.14.0
 streamlit_folium==0.23.1
-scipy.stats==1.13.1
-subprocess==0.7.0
-zipfile==3.17.0
+scipy==1.13.1
